@@ -7,7 +7,7 @@ export default function Header() {
     <nav className="header">
       {/* <img className="header__logo" src={logo} alt="WiseWordro Logo" /> */}
       <NavLink to="/" className="header__logo">
-        <p>WiseWardro</p>
+        <p>Wardrobe Wizard</p>
       </NavLink>
 
       <ul className="header__list">
